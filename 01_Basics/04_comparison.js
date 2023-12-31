@@ -1,3 +1,7 @@
+/**
+ * Performs various arithmetic operations and comparisons.
+ * @returns {Array} An array containing the results of the operations and comparisons.
+ */
 /* 
     + : addition operator
     - : subtraction operator
@@ -30,3 +34,5 @@ console.table(
         null <= 0 // true
     ]
 )
+
+
