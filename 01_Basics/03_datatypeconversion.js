@@ -25,6 +25,7 @@ console.table([typeof convertToNumber, typeof convertFromBooleanNum, typeof conv
 
 // to boolean
 
+
 let convertToBoolFromString = Boolean("amit"); // true
 let convertToBoolFromStringBlank = Boolean(""); // false
 let convertToBoolFromNumber = Boolean(33); // true
